@@ -15,10 +15,19 @@
 .sidenav a {
   padding: 8px 8px 8px 32px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 21px;
   color: #818181;
   display: block;
   transition: 0.3s;
+}
+
+.sidenav p{
+  padding: 8px 8px 0px 32px;
+  font-size: 25px;
+  color: #d6d6d6;
+  display: block;
+  transition: 0.3s;
+  text-decoration: overline underline #d6d6d6;
 }
 
 /*hover*/
