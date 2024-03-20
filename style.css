@@ -21,13 +21,14 @@
   transition: 0.3s;
 }
 
-.sidenav p{
+#title{
   padding: 8px 8px 0px 32px;
   font-size: 25px;
   color: #d6d6d6;
   display: block;
   transition: 0.3s;
   text-decoration: overline underline #d6d6d6;
+  text-align:center
 }
 
 /*hover*/
